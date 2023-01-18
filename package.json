@@ -1,0 +1,17 @@
+{
+  "name": "parquet-to-cvs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "format_parquet_to_cvs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.2.3",
+    "parquetjs-lite": "^0.8.7",
+    "parquets": "^0.10.10"
+  }
+}
